@@ -1,0 +1,99 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+nav {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  background-color: transparent; 
+  padding: 10px 20px;
+}
+
+.logo img {
+  height: 40px; 
+  transition: transform 0.3s ease; 
+}
+
+.logo img:hover {
+  transform: scale(1.1); 
+}
+
+
+.nav-links {
+  text-align: right; 
+}
+
+nav .a {
+  margin-top: 30px;
+  color: gray; 
+  text-decoration: none; 
+  padding: 10px 20px; 
+  display: inline-block; 
+  font-size: 22px; 
+  transition: background-color 0.3s ease; 
+ 
+}
+
+nav .a:hover {
+  background-color: #a9a69c; 
+  border-radius: 5px; 
+  color: white;
+
+}
+
+nav a:not(:last-child) {
+  margin-right: 10px; 
+}
+
+.container-2{
+  margin-top: 150px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.col-1{
+  font-size: 70px;
+  color: #655a47;
+}
+.col-2{
+  margin-top: 20px;
+  font-size: 40px;
+  color: #60645f;
+}
+
+.img-divider{
+  width: 100%;
+  height: 500px;
+  margin-bottom: 60px;
+}
+
+.container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1500px;
+  width: 100%;
+  padding: 20px;
+}
+
+/* Style the divs */
+.about-me {
+  background-color: #3498db;
+  font-size: 35px;
+  margin: 10px;
+  margin-left: 70px;
+  text-align: center;
+  margin-right: 70px;
+}
+
+/* Second div style (can have a different background color) */
+.me {
+  background-color: #e74c3c;
+}
