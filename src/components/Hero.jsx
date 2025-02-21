@@ -39,10 +39,22 @@ const Hero = () => {
     </div>
 
     
-    <div className="button-container">
-        <button className="cta-button">sir babawi naalng sa susunod promise </button>
+    <div className="container-4">
+      <div className="text-div">
+        <h2>i'm just a lost meow meow</h2>
+        <p>
+          usto ko lang maka-survive, magkapera, at sana magkaroon ng peace 
+        </p>
+        <button className="cta-button">Click Me</button>
       </div>
-
+      <div className="image-div">
+      <img
+            src={me}
+            alt="ako"
+            className="img-divider"
+          />
+      </div>
+    </div>
    
 
     </div>

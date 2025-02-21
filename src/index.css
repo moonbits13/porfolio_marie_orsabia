@@ -93,7 +93,73 @@ nav a:not(:last-child) {
   margin-right: 70px;
 }
 
-/* Second div style (can have a different background color) */
+
 .me {
   background-color: #e74c3c;
+}
+
+.container-4 {
+  display: flex;
+  justify-content: space-between; /* Align divs side by side */
+  align-items: center;
+  gap: 20px;
+  width: 80%; /* Adjust the width as needed */
+  max-width: 1200px; /* Maximum width */
+  padding: 20px;
+ margin-left: 300px;
+ margin-bottom: 300px;
+
+
+ 
+}
+
+.text-div {
+  flex: 1;
+  padding: 20px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center content vertically */
+  align-items: flex-start; /* Align text to the left */
+}
+
+.text-div h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  color: #6c706b;
+}
+
+.text-div p {
+  font-size: 1rem;
+  color: #654c3f;
+  margin-bottom: 20px;
+}
+
+.cta-button {
+  padding: 12px 24px;
+  font-size: 1rem;
+  background-color: #655a47;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  align-self: center; /* Center the button */
+}
+
+.cta-button:hover {
+  background-color: #484d47;
+}
+
+.image-div {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-div img {
+  max-width: 100%;
+  border-radius: 8px;
 }
