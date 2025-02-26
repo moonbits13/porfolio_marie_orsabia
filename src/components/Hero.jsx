@@ -15,7 +15,7 @@ const Hero = () => {
     </div>
 
     <div class="nav-links">
-     <div className="a">home</div>
+     <div className="a" >home</div>
      <div className="a">about me</div>
      <div className="a">my works</div>
      <div className="a">hire me</div>
