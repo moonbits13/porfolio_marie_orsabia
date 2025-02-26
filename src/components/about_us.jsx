@@ -19,8 +19,14 @@ const Hero = () => {
      <div className="a">about me</div>
      <div className="a">my works</div>
      <div className="a">hire me</div>
+     <div className="a">home</div>
+     <div className="a">about me</div>
+     <div className="a">my works</div>
+     <div className="a">hire me</div>
     </div>
     </nav>
+
+    
 
     <div className="container-2">
         <div className="col-1">MARIE VERON ORSABIA</div>
