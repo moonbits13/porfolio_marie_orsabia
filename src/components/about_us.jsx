@@ -23,6 +23,8 @@ const AboutUs = () => {
              <div className="a">hire me</div>
            </div>
          </nav>
+
+         <div>hello philippines try lang mewmewewew</div>
        </div>
   );
 };
