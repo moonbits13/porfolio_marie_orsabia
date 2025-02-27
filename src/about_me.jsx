@@ -1,5 +1,5 @@
 
-import Hero from './components/hero'
+import Hero from '../src/components/Hero'
 
 
 function about_me() {
