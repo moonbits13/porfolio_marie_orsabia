@@ -337,3 +337,66 @@ font-size: large;
 }
 
 /* end of hero*/
+
+
+/* for about us phonescreen*/
+
+/* ✅ Make the About Us page responsive for mobile screens */
+@media (max-width: 480px) {
+  /* ✅ Stack navigation links vertically */
+  .nav-links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  /* ✅ Adjust logo size */
+  .logo img {
+    height: 80px; /* Make logo smaller */
+  }
+
+  /* ✅ Center the "ABOUT ME" title */
+  .container-2 {
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .col-1 {
+    font-size: 40px; /* Reduce font size */
+  }
+
+  /* ✅ Stack images instead of keeping them in a row */
+  .first-row {
+    display: flex;
+    flex-direction: column; /* Stack images vertically */
+    align-items: center;
+    gap: 15px;
+  }
+
+  .box {
+    width: 90%;
+    max-width: 350px;
+    padding: 10px;
+  }
+
+  /* ✅ Make the paragraph readable on small screens */
+  .second-row {
+    width: 90%;
+    text-align: justify;
+    padding: 15px;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin: auto;
+  }
+
+  /* ✅ Make images inside the boxes responsive */
+  .box img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+}
+
+
+/* end of about us phonescreen*/
