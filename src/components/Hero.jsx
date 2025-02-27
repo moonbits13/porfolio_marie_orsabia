@@ -35,16 +35,6 @@ const Hero = () => {
         <img src={catto} alt="green" className="img-divider" />
       </div>
 
-      <div className="container-4">
-        <div className="text-div">
-          <h2>i'm just a lost meow meow</h2>
-          <p>usto ko lang maka-survive, magkapera, at sana magkaroon ng peace</p>
-          <button className="cta-button">Click Me</button>
-        </div>
-        <div className="image-div">
-          <img src={me} alt="ako" className="cats" />
-        </div>
-      </div>
     </div>
   );
 };
