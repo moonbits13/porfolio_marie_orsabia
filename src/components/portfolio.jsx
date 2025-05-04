@@ -21,6 +21,7 @@ import Quezon from '../assets/quezon.jpg';
 import Rizal from '../assets/rizal.jpg';
 import Subic from '../assets/subic bay.jpg';
 import Scrollspy from 'react-scrollspy';
+import Cutie from '../assets/third.png';
 
 
 
@@ -284,7 +285,7 @@ const Portfolio = () => {
           {/* Right Column */}
           <div className="col-md-6">
             <img
-              src={Proj2}
+              src={cutie}
               alt="Work with Me"
               className="img-fluid w-100 h-100"
               style={{ objectFit: 'cover' }}
