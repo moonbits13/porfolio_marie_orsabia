@@ -18,7 +18,7 @@ const Portfolio = () => {
 
     <>
     {/* Navbar */}
-    <Navbar expand="lg" className="fixed-top shadow-sm">
+    <Navbar expand="lg" className=" shadow-sm">
       <Container>
         <Navbar.Brand href="#home" className="fw-bold">Marie Veron Orsabia</Navbar.Brand>
         <Navbar.Toggle className='mav' aria-controls="basic-navbar-nav" />
