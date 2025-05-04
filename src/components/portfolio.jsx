@@ -77,7 +77,7 @@ const Portfolio = () => {
     </section>
     
     {/* Star Projects Section */}
-<section id="projects works" className="py-5  text-center" >
+<section id="works" className="py-5  text-center" >
   <Container>
     <h2 className="display-5 fw-bold mb-5 font-color" style={{ fontFamily: "'Anton', sans-serif", letterSpacing: "1px" }}>
       MY WORKS
