@@ -166,7 +166,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 1</h5>
               <p className="card-text  ">FORT SANTIAGO</p>
-              <a href="https://github.com/moonbits13/todo-list" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
             </div>
           </div>
           <div className="card shadow-sm" style={{ width: "18rem", borderRadius: "1rem" , margin: "10px", height: "28rem"}}>
@@ -174,7 +174,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title  ">DAY 1</h5>
               <p className="card-text  ">LUNETA PARK</p> 
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
             </div>
           </div>
           <div className="card shadow-sm" style={{ width: "18rem", borderRadius: "1rem" , margin: "10px", height: "28rem"}}>
@@ -182,7 +182,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 2</h5>
               <p className="card-text ">SUBIC BAY EXHIBIT AND CONVENTION CENTER </p>
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark">Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark">Visit</a>
             </div>
           </div>
         </div>
@@ -195,7 +195,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 3</h5>
               <p className="card-text ">MANUEL L. QUEZON MEMORIAL CIRCLE</p>
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark">Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark">Visit</a>
             </div>
           </div>
           <div className="card shadow-sm" style={{ width: "18rem", borderRadius: "1rem", margin: "10px", height: "28rem" }}>
@@ -203,7 +203,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 3</h5>
               <p className="card-text ">NATIONAL MUSEUM</p>
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
             </div>
           </div>
           <div className="card shadow-sm" style={{ width: "18rem", borderRadius: "1rem" , margin: "10px", height: "28rem"}}>
@@ -211,7 +211,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 3</h5>
               <p className="card-text ">CARS OF THE PHILIPPINE PRESIDENTS</p>
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark">Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark">Visit</a>
             </div>
           </div>
         </div>
@@ -224,7 +224,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 4</h5>
               <p className="card-text ">HYTEC POWER INC.</p>
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark" style={{ marginTop: "20px"}}>Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark" style={{ marginTop: "20px"}}>Visit</a>
             </div>
           </div>
           <div className="card shadow-sm" style={{ width: "18rem", borderRadius: "1rem" , margin: "10px", height: "28rem"}}>
@@ -232,7 +232,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 5</h5>
               <p className="card-text ">LRT LINE 2</p>
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark" style={{ marginTop:"20px" }}>Visit</a>
             </div>
           </div>
           <div className="card shadow-sm" style={{ width: "18rem", borderRadius: "1rem" , margin: "10px", height: "28rem"}}>
@@ -240,7 +240,7 @@ const Portfolio = () => {
             <div className="card-body">
               <h5 className="card-title ">DAY 5</h5>
               <p className="card-text ">TRAFFIC ENGINGEERING CENTER MMDA</p>
-              <a href="https://Visit.com/moonbits13/todo-list" className="btn btn-outline-dark">Visit</a>
+              <a href="https://tour2025.netlify.app/" className="btn btn-outline-dark">Visit</a>
             </div>
           </div>
         </div>
