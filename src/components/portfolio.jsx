@@ -29,7 +29,7 @@ const Portfolio = () => {
   return (
 
     <>
-    {/* Navbar */}
+
     <Navbar expand="lg" className=" shadow-sm fixed-top">
       <Container>
         <Navbar.Brand href="#home" className="fw-bold">Marie Veron Orsabia</Navbar.Brand>
@@ -50,16 +50,16 @@ const Portfolio = () => {
       </Container>
     </Navbar>
 
-    {/* Hero Section */}
+
     <section className="container-fluid  vh-100 d-flex align-items-center" id="home">
       <Container>
         <div className="row align-items-center">
-          {/* Image */}
+  
           <div className="col-md-6 mb-4 mb-md-0 text-center">
           <img src={Veron} alt="SiVeron"  className="img-fluid"  style={{ maxHeight: "600px", width: "100%", objectFit: "cover" }}/>
           </div>
 
-          {/* Text */}
+   
           <div className="col-md-6">
             <h1 className="display-3 fw-bold font-color">Marie Veron<br />Orsabia</h1>
             <h5 className="text-uppercase fw-semibold mb-3 font-color2">Front-End Developer</h5>
@@ -77,7 +77,7 @@ const Portfolio = () => {
       </Container>
     </section>
     
-    {/* Star Projects Section */}
+  
 <section id="works" className="py-5  text-center" >
   <Container>
     <h2 className="display-5 fw-bold mb-5 font-color" style={{ fontFamily: "'Anton', sans-serif", letterSpacing: "1px" }}>
@@ -85,7 +85,7 @@ const Portfolio = () => {
     </h2>
     <div className="row justify-content-center" style={{ marginBottom: "100px" }}>
 
-      {/* Project 1 */}
+ 
       <div className="col-md-4 mb-4">
         <img src={Proj3} alt="The Amber House" className="img-fluid rounded" />
         <h6 className="mt-3 text-uppercase fw-bold font-color">POKEDEX</h6>
@@ -96,7 +96,7 @@ const Portfolio = () => {
             </div>
       </div>
 
-      {/* Project 2 */}
+ 
       <div className="col-md-4 mb-4">
         <img src={Proj2} alt="Beauvois Place" className="img-fluid rounded" />
         <h6 className="mt-3 text-uppercase fw-bold font-color">FLOWERSHOP</h6>
@@ -107,7 +107,7 @@ const Portfolio = () => {
             </div>
       </div>
 
-      {/* Project 3 */}
+
       <div className="col-md-4 mb-4">
         <img src={Todo} alt="Frucinni" className="img-fluid rounded font-color" />
         <h6 className="mt-3 text-uppercase fw-bold font-color">TO-DO LIST</h6>
@@ -122,7 +122,7 @@ const Portfolio = () => {
       OTHER WORKS 
     </h2>
 
-     {/* Project 1 */}
+
      <div className="col-md-4 mb-4">
         <img src={Proj4} alt="The Amber House" className="img-fluid rounded zise" />
         <h6 className="mt-3 text-uppercase fw-bold font-color">PACKAGE MOCKUP</h6>
@@ -131,7 +131,7 @@ const Portfolio = () => {
             </div>
       </div>
 
-      {/* Project 2 */}
+    
       <div className="col-md-4 mb-4">
         <img src={Proj5} alt="Beauvois Place" className="img-fluid rounded zise" />
         <h6 className="mt-3 text-uppercase fw-bold font-color">CALLING CARD MOCKUP</h6>
@@ -140,7 +140,7 @@ const Portfolio = () => {
             </div>
       </div>
 
-      {/* Project 3 */}
+
       <div className="col-md-4 mb-4">
         <img src={Proj6} alt="Frucinni" className="img-fluid rounded font-color zise" />
         <h6 className="mt-3 text-uppercase fw-bold font-color">FLYER MOCKUP</h6>
@@ -282,7 +282,7 @@ const Portfolio = () => {
             </div>
           </div>
 
-          {/* Right Column */}
+      
           <div className="col-md-6">
             <img
               src={Cutie}
